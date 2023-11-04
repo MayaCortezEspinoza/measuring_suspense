@@ -5,7 +5,7 @@ Therefore, its main functions are
 - drawing with the mouse
 - navigating through the text (in sections of 10 lines)
 
-please be aware that this version is a prototype and the full potential of the design is far from exhausted. New versions will come.
+please be aware that this version is a prototype and the full potential of the design is far from exhausted. New versions will come. (right now, I am developing a more flexible and modular version that will be easier to use without figuring out the code as a whole 😎)
 
 The programm is written with pygame 3.10 and consists of three scripts: the experiment itself (which should be run as main) and two modules: auxiliaries.py and units.py. The question_window.py mudule builds a window with the Tkinter package that can be altered in case questionnaires should attached to the experiment.
 
