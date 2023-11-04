@@ -1,0 +1,14 @@
+Column1;text;
+0;Welcome to this experiment measuring literary suspense. Press 's' on your keyboard to continue. ;
+1;In this experiment, you will draw a suspense line using the left mouse button while reading sections of ten lines of text. You can only draw from left to right and you must draw the line until the right boarder of the drawing field. Try this now, then press 's' to continue. ;
+2;Should you want to return to a previous screen to see your drawing, press 'a'. Try this now, then press 's' to continue. ;
+3;The line you draw should represent how suspenseful the story is. Draw up when the story is more suspenseful and down when it is less suspenseful. The color of the text will change which will facilitate your orientation in the text. Draw, then press 's' to continue. ;" sollte es weniger spannend werden, zeichne die Linie nach unten. Je nach dem, wo du dich gerade mit dem Zeichnen deiner Linie befindest, wird sich die Farbe des Textes ändern, damit du dich orientieren kannst. Deine Linie bildet also die Spannungsentwicklung im Textabschnitt ab. Zeichne, dann drücke ""s"", um weiterzukommen."
+4;Should you need more room due to higher suspense values, you can zoom out using the 'd' key. The upper limit of your drawing screen will double and everything you have drawn so far will appear flatter. Try it out by drawing something and then zooming out. Continue.   ;
+5;You can zoom back in using the 'e' key. Try it, then continue. ;
+6;If you are not satisfied with your drawing, you can delete the drawing of the current section. Careful: As soon as you move to the next screen, your drawing will be saved and cannot be changed anymore. Try it out: Draw a line, delete, draw again and continue. ;
+7;Maybe you have noticed: Trying to move to the next section without having completed drawing will result in an error-sound. Try it out, then continue.;
+8;On a new screen, the mouse will start at the suspense level you stopped at on the previous screen. Continue.;
+9;Should you choose to quit, you may do so at any point by pressing the 'q' key. Continue.;
+10;Here is a piece of advice: Even if the suspense line is saved word-by-word, try to not get caught up by rating each word. Instead try to catch bigger-scale suspense fluctuations.;
+11;A box at the bottom of the screen will show you an overview of your progress through the story. ;
+12;The experiment starts now. Have fun!;
