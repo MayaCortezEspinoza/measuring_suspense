@@ -14,7 +14,21 @@ Right now, there is a training section attached to the front - it explains how t
 Additionally,
 
 ## The data saved
-The data is saved as a csv file
+The data is saved as a .csv file. As soon as there is a file with the results-file name in the directory ("results.csv"), new data will be appended (i.e. the data of all participants will be saved in the same file.)
+
+These are the columns in which the data is saved: 
+1. Index (of word rated for suspense)
+2. **text** of word rated for suspense
+3. number of word (same as index +1)
+4. position_x and cumulative x: data about where the word was displayed on the screen
+5. screen number: in which section was this word shown
+6. paragraph: original paragraph index from the narrative that was rated
+7. mean_value: most important column: what was the mean suspense rating for this word? (as the software is able to capture even more fine grained data, this one-value-per-word data is already an averaged value)
+8. mean_screen_value: suspense value averaged over the whole 10 line section
+9. : in milliseconds: how long did the participant take to rate this section for suspense (from the moment they started drawing)
+10. screen starting time: as unix time stamp 
+11. screen drawing time, time until next screen, mean screen time, max and min screen time additional properties calculated from the data (adjust to need)
+12. all further columns: data from the questionnaires (first two: participant index and participant age)
 
 Please contact me at maya.cortez-espinoza@uni-graz.at in case you encounter issues with the code or if you want to develop further versions with me. 
 
