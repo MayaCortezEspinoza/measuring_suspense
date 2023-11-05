@@ -7,10 +7,14 @@ Therefore, its main functions are
 
 please be aware that this version is a prototype and the full potential of the design is far from exhausted. New versions will come. (right now, I am developing a more flexible and modular version that will be easier to use without figuring out the code as a whole 😎)
 
-The programm is written with pygame 3.10 and consists of three scripts: the experiment itself (which should be run as main) and two modules: auxiliaries.py and units.py. The question_window.py mudule builds a window with the Tkinter package that can be altered in case questionnaires should attached to the experiment.
+The programm is written with [python 3.10](https://www.python.org/downloads/release/python-3100/) and [pygame 2.5.2](https://www.pygame.org/news). and consists of three scripts: the experiment itself (which should be run as main) and two modules: auxiliaries.py and units.py. The question_window.py mudule builds a window with the Tkinter package that can be altered in case questionnaires should attached to the experiment.
+There are questionnaires attached to the experiment right now, but they are in German (As you will not have the same questions as we did, I did not bother translating them.)
 
 Right now, there is a training section attached to the front - it explains how the software works. Some screens in the training do not allow the drawing function and some do. 
-Additionally, there are questionnaires at the beginning and the end of the experiment. All these questions are in German, as you will not have the same questions as we did, I did not bother translating them. 
+Additionally,
+
+## The data saved
+The data is saved as a csv file
 
 Please contact me at maya.cortez-espinoza@uni-graz.at in case you encounter issues with the code or if you want to develop further versions with me. 
 
