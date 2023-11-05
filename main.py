@@ -187,6 +187,6 @@ for w in my_words:
     for i in range(len(qu_2.question_list)):
         w.properties[qu_2.question_list[i]["text"]] = qu_2.question_list[i]["result"]
 init_thanks()
-save_and_compress(my_words, count_round, "cat_results.csv")
+save_and_compress(my_words, count_round, "results.csv")
 pygame.time.wait(100)
 exit()
