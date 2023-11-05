@@ -10,7 +10,7 @@ questionaire = True  # set to true if you want to show the questionnaire
 try_it = False  # set to true if you want only a short passage to try out the program
 SCR_WIDTH = 1920
 SCR_HEIGHT = 1080
-count_round = 1  # in this case always one as this version of the experiment has just one text
+count_round = 1  # one as this version of the experiment has just one text
 
 # screen proportions
 TXT_HEIGHT = 35  # percent of screen height
